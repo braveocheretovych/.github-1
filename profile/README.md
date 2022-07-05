@@ -4,13 +4,13 @@ An Ethereum node enables its user to interact with dApps in the most decentraliz
 
 Follow our development progress, check out our socials & donate to our GitCoin:
 
-<br>
-🌐 [Website: stereum.net](https://stereum.net/) <br>
-💸 [Gitcoin: Stereum - Ethereum Node](https://gitcoin.co/grants/1855/stereumnet-ethereum-node-setup-infrastructure) <br>
-📧 [E-Mail: stereum@stereum.net](mailto:stereum@stereum.net) <br>
-☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) <br>
-🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) <br>
-📺 [YouTube: Stereum](https://www.youtube.com/channel/UCq_LYa0idkQcSnxBUmiJm3Q) <br>
+
+* 🌐 [Website: stereum.net](https://stereum.net/) 
+* 💸 [Gitcoin: Stereum - Ethereum Node](https://gitcoin.co/grants/1855/stereumnet-ethereum-node-setup-infrastructure) 
+* 📧 [E-Mail: stereum@stereum.net](mailto:stereum@stereum.net) 
+* ☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
+* 🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) 
+* 📺 [YouTube: Stereum](https://www.youtube.com/channel/UCq_LYa0idkQcSnxBUmiJm3Q) 
 
 <!--
 
