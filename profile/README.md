@@ -6,7 +6,7 @@ Follow our development progress, check out our socials & donate to our GitCoin:
 
 
 * 🌐 [Website: stereum.net](https://stereum.net/) 
-* 💸 [Gitcoin: Stereum - Ethereum Node](https://gitcoin.co/grants/1855/stereumnet-ethereum-node-setup-infrastructure) 
+* 💸 [Donate on Ethereum](https://stereum.net/donate) 
 * 📧 [E-Mail: stereum@stereum.net](mailto:stereum@stereum.net) 
 * ☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
 * 🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) 
