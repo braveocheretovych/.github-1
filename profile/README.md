@@ -2,11 +2,10 @@ Welcome to Stereum's Github Page 👋
 
 An Ethereum node enables its user to interact with dApps in the most decentralized fashion, to participate in the network by staking Ether & to obtain/collect their own blockchain data. Don't trust, verify. Stereum aims to cover your use-case as well!
 
-Follow our development progress, check out our socials & donate to our GitCoin:
-
+Follow our development progress, check out our socials & donate to the project:
 
 * 🌐 [Website: stereum.net](https://stereum.net/) 
-* 💸 [Donate on Ethereum](https://stereum.net/donate) 
+* 💸 [Donate on our Website](https://stereum.net/donate) 
 * 📧 [E-Mail: stereum@stereum.net](mailto:stereum@stereum.net) 
 * ☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
 * 🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) 
