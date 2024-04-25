@@ -4,9 +4,9 @@ An Ethereum node enables its user to interact with dApps in the most decentraliz
 
 Follow our development progress, check out our socials & donate to the project:
 
-* 🌐 [Website: stereum.net](https://stereum.net/) 
-* 💸 [Donate on our Website](https://stereum.net/donate) 
-* 📧 [E-Mail: stereum@stereum.net](mailto:stereum@stereum.net) 
+* 🌐 [Website: stereum.com](https://stereum.com/) 
+* 💸 [Donate on our Website](https://stereum.com/donate) 
+* 📧 [E-Mail: office@stereum.com](mailto:office@stereum.com) 
 * ☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
 * 🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) 
 * 📺 [YouTube: Stereum](https://www.youtube.com/channel/UCq_LYa0idkQcSnxBUmiJm3Q) 
