@@ -7,8 +7,8 @@ Follow our development progress, check out our socials & donate to the project:
 * 🌐 [Website: stereum.com](https://stereum.com/) 
 * 💸 [Donate on our Website](https://stereum.com/donate) 
 * 📧 [E-Mail: office@stereum.com](mailto:office@stereum.com) 
-* ☎️ [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
-* 🐦 [Twitter: @stereumdev](https://twitter.com/stereumdev) 
+* ☎️  [Discord: Stereum](https://discord.gg/DzAwgnSXtB) 
+* 🐦 [X (formerly Twitter): @stereumdev](https://x.com/stereumdev) 
 * 📺 [YouTube: Stereum](https://www.youtube.com/channel/UCq_LYa0idkQcSnxBUmiJm3Q) 
 
 <!--
